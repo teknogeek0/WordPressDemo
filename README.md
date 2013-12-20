@@ -15,8 +15,8 @@ The only thing different from the basic WordPress release mentioned is an update
 
 <table>
   <tr>
-    <th>Name</th>
-    <th>Value</th>
+    <th>Variable Name</th>
+    <th>Varialbe Value/Default</th>
     <th>Description</th>
   </tr>
   <tr>
